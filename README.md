@@ -17,7 +17,7 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 - Looking at the data, we can see many employees of retirement age currently hold senior titles (57,668/90,398) or **64%** of the staff to retire. Below is a table of the retirees, sorted by their titles. 
 
-	![Retiring_Titles](retiring_titles.png “Retiring Titles”)
+	![Retiring_Titles]([retiring_titles.png](https://github.com/shayburmi/Pewlett-Hackard-Analysis/blob/9b2e015a96c237139988684aba6a2b9f4cb83e57/retiring_titles.png) “Retiring Titles”)
 
 ### Mentorship Candidates
 - Below are those employees who qualify for the mentorship program – these are senior employees in the general staff, not quite at retirement age. As you can see, there are not many of them.
