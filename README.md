@@ -11,18 +11,18 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 - Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
 
-	![Employee DB](EmployeeDB.png "Employee DB")
+	![Employee_DB](EmployeeDB.png "Employee DB")
 
 ### Future Job Openings 
 
 - Looking at the data, we can see many employees of retirement age currently hold senior titles (57,668/90,398) or **64%** of the staff to retire. Below is a table of the retirees, sorted by their titles. 
 
-	![Titles](retiring_titles.png “Retiring Titles”)
+	![Retiring_Titles](retiring_titles.png “Retiring Titles”)
 
 ### Mentorship Candidates
 - Below are those employees who qualify for the mentorship program – these are senior employees in the general staff, not quite at retirement age. As you can see, there are not many of them.
 
-	![Mentorship Candidates](mentorship_team.png "Mentorship Candidates")
+	![Mentorship_Candidates](mentorship_team.png "Mentorship Candidates")
 	
 
 ## Summary
