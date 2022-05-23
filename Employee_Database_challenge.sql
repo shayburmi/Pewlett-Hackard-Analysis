@@ -52,8 +52,16 @@ FROM employees AS e
 		ON (e.emp_no = de.emp_no)
 			INNER JOIN titles AS t
 				ON (e.emp_no = t.emp_no)
-WHERE (e.birth_date BETWEEN '1962-01-01' AND '1965-12-31')
+WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND (de.to_date = '9999-01-01')
 ORDER BY emp_no;
 
 SELECT * FROM mentorship_table
+
+SELECT COUNT(t.emp_no), t.title 
+INTO mentorship_numbers
+FROM mentorship_table AS t
+GROUP BY title
+ORDER BY COUNT(title) DESC;
+
+SELECT * FROM mentorship_numbers
